@@ -15,6 +15,11 @@
 - JavaScript (Learning)
 
 ## 📌 Pinned Projects
-> Coming soon: CarParts ASP.NET Core App, Training Tracker, Budget Planner
+> Coming soon: Training Tracker, Budget Planner
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/bongani-rampai)
+GitHub Stats
+![Bongani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonganiRampai&show_icons=true&theme=default)
+
+How to reach me
+- Email: [bonganerampai@gmail.com](mailto:bonganerampai@gmail.com)
+- LinkedIn: [linkedin.com/in/bongani-rampai](https://linkedin.com/in/bongani-rampai)
