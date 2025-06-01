@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Bongani Rampai
 
-<!--
-**BonganiRampai/BonganiRampai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student at UFS  
+💻 Passionate about full-stack web development  
+🌍 Aspiring software developer based in South Africa  
+🚀 Currently building real-world ASP.NET Core MVC & SQL Server projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- ASP.NET Core MVC
+- SQL Server, Stored Procedures
+- C#
+- HTML/CSS, Bootstrap
+- Git & GitHub
+- Azure (Learning)
+- JavaScript (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+> Coming soon: CarParts ASP.NET Core App, Training Tracker, Budget Planner
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/bongani-rampai)
